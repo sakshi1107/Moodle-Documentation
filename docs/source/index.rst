@@ -11,17 +11,13 @@ Here is some text explaining some very complicated stuff.::
        
     print 'hello'
     >> hello
+Hello
+^^^^^
+.. toctree::
+   :maxdepth: 1
 
-Guide
-^^^^^^^^
-
-.. doctrees::
-   :maxdepth: 3
-    
-    License
-    Contact
-    Helps
-
+   helps
+   license
 
 Indices and tables
 ==================
