@@ -1,4 +1,3 @@
-
 .. header:: Sphinx and Read the docs test.
 
 .. contents:: Table of Contents
@@ -10,11 +9,11 @@
         <iframe width="420" height="315" src="http://www.youtube.com/embed/NvoJ31F0Y8E" frameborder="0" allowfullscreen></iframe>
 
 
-Simple Documentation Tutorials : Moodle-Docs
-=============================================
+Simple Documentation Tutorials : Moodle-Docs 2.5
+=================================================
 
-Another Simple header
-=====================
+Another Simple header 2.5
+==========================
 
 Here is some text explaining some very complicated stuff.::
        
@@ -30,8 +29,8 @@ Guide
    About license <license>
    contact
 
-Indices and tables
-==================
+Indices and tables 2.5
+=======================
 
 * :ref:`genindex`
 * :ref:`modindex`
