@@ -9,11 +9,11 @@
         <iframe width="420" height="315" src="http://www.youtube.com/embed/NvoJ31F0Y8E" frameborder="0" allowfullscreen></iframe>
 
 
-Simple Documentation Tutorials : Moodle-Docs 2.5
-=================================================
+Simple Documentation Tutorials : Moodle-Docs 
+=============================================
 
-Another Simple header 2.5
-==========================
+Another Simple header
+======================
 
 Here is some text explaining some very complicated stuff.::
        
@@ -29,8 +29,8 @@ Guide
    About license <license>
    contact
 
-Indices and tables 2.5
-=======================
+Indices and tables
+===================
 
 * :ref:`genindex`
 * :ref:`modindex`
