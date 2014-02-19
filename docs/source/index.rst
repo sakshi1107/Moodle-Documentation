@@ -15,7 +15,7 @@ Simple Documentation Tutorials : Moodle-Docs 2.5
 Another Simple header 2.5
 ==========================
 
-Here is some text explaining some very complicated stuff.::
+Here is some :term:`text` explaining some very :term:`complicated` stuff.::
        
     print 'hello'
     >> hello
@@ -28,6 +28,7 @@ Guide
    helps
    About license <license>
    contact
+   Glossary
 
 Indices and tables 2.5
 =======================
