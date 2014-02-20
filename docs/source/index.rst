@@ -35,6 +35,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`glossary`
 
 Refer other related doc of :ref:`license <license>` 
 
